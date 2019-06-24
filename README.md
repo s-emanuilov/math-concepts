@@ -1,5 +1,5 @@
-#Math Concepts
-##for Developers and base for machine learning algorithms
+# Math Concepts
+## for Developers and base for machine learning algorithms
 
 **Links:**  
 [Khan Academy](https://bg.khanacademy.org/math) - online academy with videos  
