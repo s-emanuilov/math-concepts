@@ -11,24 +11,73 @@
 [YouTube channel - 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
 [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)  
 
-1. [High School Maths](/high-scool-maths) 
-  - scientific method introduction;
-  - solving linear equations and systems (the “slow” way);
-  - trigonometry. Right triangle, unit circle, functions and graphs, identities;
-  - high-School geometry, intro to computational geometry.
-2. 
-3. 
-
-
-- Scientific notation
-  - used for very large or small numbers;
-  - numbers are expressed as decimals with **exactly one** digit before the decimal point;
-  - all other digits are expressed as power of 10;
-  - <img src="https://img.netpeak.ua/sim/1561376193667.png" /> 
-  - <img src="https://latex.codecogs.com/gif.latex?0,000015 = 1,5 . 10^{-2}" /> 
-- Summation notation ("sigma" notation)
-  - used as a shorthand for writing long sums of numbers/symbols;
-  - very similar to for loop;
-  - greek capital "sigma" denotes the sum, the two numbers below and above it denote the start and the ends points;
-  - <img src="https://latex.codecogs.com/gif.latex?\sum\limits_{i=1}^5i = 1 + 2 + 3 + 4 + 5" /> 
-  - <img src="https://latex.codecogs.com/gif.latex?\sum\limits_{k=1}^n x_k = x_1 + x_2 + ... + x_n" /> 
+<h2>[High School Maths](/high-scool-maths)</h2>
+- scientific method introduction;
+- solving linear equations and systems (the “slow” way);
+- trigonometry. Right triangle, unit circle, functions and graphs, identities;
+- high-School geometry, intro to computational geometry.  
+=> [Basic concepts](/high-scool-maths/high-scool-math-concepts.ipynb)  
+=> [Exercise](/high-scool-maths/high-scool-math-exercise.ipynb)  
+  
+<h2>[Basic Algebra](/basic-algebra)</h2>
+- functions (in maths and programming);
+- polynomials – idea, representation, operations;
+- complex numbers, geometric intuition;
+- euler's formula;
+- fundamental theorem of algebra.  
+=> [Basic concepts]()  
+=> [Exercise](/basic-algebra/basic-algebra-exercise.ipynb)
+  
+<h2>[Linear Algebra](/linear-algebra)</h2>
+- matrices. Operations with matrices;
+- vectors and vector spaces. Basis, change of basis;
+- inverse matrix;
+- determinant, oriented area and volume.  
+=> [Basic concepts]()  
+=> [Exercise](/linear-algebra/linear-algebra-exercise.ipynb)
+  
+<h2>[Calculus](/calculus)</h2>
+- limits;
+- derivatives – intuition, slope of a function at a point;
+- table derivatives;
+- rules for calculating derivatives;
+- higher-order derivatives;
+- riemann sums and integrals. Intuition, oriented area;
+- fundamental theorem of calculus;
+- extension of calculus to many dimensions – intuition.  
+  => [Basic concepts]()  
+  => [Exercise](/calculus/calculus-exercise.ipynb)
+  
+<h2>[Probability and combinatorics](/probability-combinatorics)</h2>
+- random variables;
+- probability. Definitions: frequency, chance of happening next time;
+- events and algebra of events;
+- combinatoric rules;
+- probability mass function, probability density function, cumulative distribution function;
+- central limit theorem.  
+  => [Basic concepts]()  
+  => [Exercise](/probability-combinatorics/probability-combinatorics.ipynb)
+  
+<h2>[Statistics](/statistics)</h2>
+- definition. Descriptive and inferential statistics;
+- sample and population. Sampling rules;
+- moments of distributions;
+- covariance and correlation;
+- anscombe's quartet;
+- simpson's paradox.  
+  => [Basic concepts]()  
+  => [Exercise](/statistics/statistic-exercise.ipynb)
+  
+<h2>[Hypothesis Testing](/statistics)</h2>
+- confidence intervals, confidence level, alpha parameter;
+- null and alternate hypothesis
+- z-test, t-test, chi-squared;
+- ANOVA;
+- p-value;
+- p-value misconceptions.  
+  => [Basic concepts]()  
+  => [Exercise](/hypothesis-testing/hypothesis-testing-exercise.ipynb)
+  
+  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simeonemanuilov/math-concepts/master)  
+*online viewer of Jupyter Notebooks: https://gke.mybinder.org*
