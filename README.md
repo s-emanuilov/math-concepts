@@ -11,7 +11,13 @@
 [YouTube channel - 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
 [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)  
 
-###High-School Maths
+1. [High School Maths](/high-scool-maths) 
+  - scientific method introduction;
+  - solving linear equations and systems (the “slow” way);
+  - trigonometry. Right triangle, unit circle, functions and graphs, identities;
+  - high-School geometry, intro to computational geometry.
+2. 
+3. 
 
 
 - Scientific notation
