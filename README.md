@@ -19,7 +19,7 @@
 => [Basic concepts](/high-scool-maths/high-scool-math-concepts.ipynb)  
 => [Exercise](/high-scool-maths/high-scool-math-exercise.ipynb)  
   
-<h2>[Basic Algebra](/basic-algebra)</h2>
+## [Basic Algebra](/basic-algebra)</h2>
 - functions (in maths and programming);
 - polynomials – idea, representation, operations;
 - complex numbers, geometric intuition;
