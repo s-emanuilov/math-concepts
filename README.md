@@ -11,11 +11,11 @@
 [YouTube channel - 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
 [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)  
 
-<h2>[High School Maths](/high-scool-maths)</h2>
-- scientific method introduction;
-- solving linear equations and systems (the “slow” way);
-- trigonometry. Right triangle, unit circle, functions and graphs, identities;
-- high-School geometry, intro to computational geometry.  
+## [High School Maths](/high-scool-maths)
+  - scientific method introduction;
+  - solving linear equations and systems (the “slow” way);
+  - trigonometry. Right triangle, unit circle, functions and graphs, identities;
+  - high-School geometry, intro to computational geometry.    
 => [Basic concepts](/high-scool-maths/high-scool-math-concepts.ipynb)  
 => [Exercise](/high-scool-maths/high-scool-math-exercise.ipynb)  
   
