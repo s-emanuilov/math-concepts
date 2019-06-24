@@ -18,7 +18,7 @@
   - used for very large or small numbers;
   - numbers are expressed as decimals with **exactly one** digit before the decimal point;
   - all other digits are expressed as power of 10;
-  - <img src="https://latex.codecogs.com/gif.latex?15 0000 = 1,5 . 10^2" /> 
+  - <img src="https://img.netpeak.ua/sim/1561376193667.png" /> 
   - <img src="https://latex.codecogs.com/gif.latex?0,000015 = 1,5 . 10^{-2}" /> 
 - Summation notation ("sigma" notation)
   - used as a shorthand for writing long sums of numbers/symbols;
