@@ -27,7 +27,7 @@
 - complex numbers, geometric intuition;
 - euler's formula;
 - fundamental theorem of algebra.  
-=> [Basic concepts]()  
+=> [Basic concepts](/basic-algebra/basic-algebra-concepts.ipynb)  
 => [Exercise](/basic-algebra/basic-algebra-exercise.ipynb)
   
 ## [Linear Algebra](/linear-algebra)</h2>
