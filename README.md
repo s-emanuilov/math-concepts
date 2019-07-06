@@ -35,7 +35,7 @@
 - vectors and vector spaces. Basis, change of basis;
 - inverse matrix;
 - determinant, oriented area and volume.  
-=> [Basic concepts]()  
+=> [Basic concepts](/linear-algebra/linear-algebra-concepts.ipynb)  
 => [Exercise](/linear-algebra/linear-algebra-exercise.ipynb)
   
 ## [Calculus](/calculus)</h2>
