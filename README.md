@@ -47,7 +47,7 @@
 - riemann sums and integrals. Intuition, oriented area;
 - fundamental theorem of calculus;
 - extension of calculus to many dimensions – intuition.  
-  => [Basic concepts]()  
+  => [Basic concepts](/calculus/calculus-concepts.ipynb)    
   => [Exercise](/calculus/calculus-exercise.ipynb)
   
 ## [Probability and combinatorics](/probability-combinatorics)</h2>
