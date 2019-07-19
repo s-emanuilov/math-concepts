@@ -67,7 +67,7 @@
 - covariance and correlation;
 - anscombe's quartet;
 - simpson's paradox.  
-  => [Basic concepts]()  
+  => [Basic concepts](/statistics/statistic-concepts.ipynb)  
   => [Exercise](/statistics/statistic-exercise.ipynb)
   
 ## [Hypothesis Testing](/statistics)</h2>
