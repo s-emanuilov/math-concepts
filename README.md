@@ -77,7 +77,7 @@
 - ANOVA;
 - p-value;
 - p-value misconceptions.  
-  => [Basic concepts]()  
+  => [Basic concepts](/hypothesis-testing/hypothesis-testing-concepts.ipynb)  
   => [Exercise](/hypothesis-testing/hypothesis-testing-exercise.ipynb)
   
 *online viewer of Jupyter Notebooks: https://gke.mybinder.org*
