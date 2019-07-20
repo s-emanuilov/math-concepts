@@ -3,8 +3,9 @@
 
 **Links:**  
 [Khan Academy](https://bg.khanacademy.org/math) - online academy with videos  
-[WolframAlpha](https://www.wolframalpha.com/) - calculations online  
-[btu.bg](https://www.btu.bg/statexcel/) - statistics basic concepts  
+[WolframAlpha](https://www.wolframalpha.com/) - calculations online   
+[statistika.bg](https://statistika.bg/) - statistics basic concepts with videos 
+[btu.bg](https://www.btu.bg/statexcel/) - statistics basic concepts 
 [matematika.bg](https://www.matematika.bg/) - basic concepts with examples
 
 **More:**  
